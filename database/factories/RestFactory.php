@@ -14,7 +14,6 @@ class RestFactory extends Factory
      * @var string
      */
     protected $model = Rest::class;
-
     /**
      * Define the model's default state.
      *
